@@ -13,7 +13,7 @@ local muscleEvent = player:WaitForChild("muscleEvent")
 local leaderstats = player:WaitForChild("leaderstats")
 local rebirthsStat = leaderstats:WaitForChild("Rebirths")
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/lkjhg969/ffdsf/refs/heads/main/hgfhj", true))()
+local library = "https://raw.githubusercontent.com/SalazarGaming01/TMaC-Public/refs/heads/main/sxo/FastFarm.luau", true))()
 
 local window = library:AddWindow("TMaC - Public | Farming", {
     main_color = Color3.fromRGB(138, 0, 0),
